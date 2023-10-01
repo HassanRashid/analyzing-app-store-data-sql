@@ -49,15 +49,13 @@ From this data set, I used two tables in the SQL code in order to analyze the da
 
 - Checking whether paid apps have higher ratings than free apps
 
-- Determing whether paid apps have higher ratings than free apps
+- Checking if apps with more supported languages have higher ratings
 
-- Checking if apps with more supported languages have higher ratings:
+- Checking what genres have the lowest ratings
 
-- Checking what genres have the lowest ratings:
+- Checking if correlation exists between length of app description and user rating
 
-- Checking if correlation exists between length of app description and user rating:
-
-- Checking the top-rated apps for each genre:
+- Checking the top-rated apps for each genre
 
 ## Results & Recommendations
 
