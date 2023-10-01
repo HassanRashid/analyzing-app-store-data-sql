@@ -3,6 +3,8 @@ I used SQL to analyze App Store data for 7197 iOS apps in order to find what App
 
 The SQL code utilizes window and aggregate functions to list the top-rated apps for each genre. Final recommendations are provided for stakeholders based on the SQL output.
 
+The output is available [here](https://www.hassanrashid.me/analyzing-app-store-data-using-sql).
+
 ## Situation
 
 What is the purpose of the project, and who are we building our analysis for?
