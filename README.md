@@ -66,3 +66,5 @@ From this data set, I used two tables in the SQL code in order to analyze the da
 - App genres such as "Finance" and "Book" received one of the lowest ratings, suggesting that there is room for improvement for apps in these industries. However, this may also mean these apps in these industries are harder to build and maintain and therefore harder to get a good rating from users
 - Apps with a longer description have better ratings—it is likely that users appreciate apps that have a clear and transparent description of the features and limitations of the app before they download it, which sets appropriate expectations, leading to higher ratings
 - During the EDA phase, the SQL query to find the number of apps per genre provides an output where the Games and Entertainment app genres have the highest number of apps. This suggests that these are highly competitive app categories and it may be difficult for a new app in these spaces to gain meaningful traction
+
+The full output is available [here](https://www.hassanrashid.me/analyzing-app-store-data-using-sql).
